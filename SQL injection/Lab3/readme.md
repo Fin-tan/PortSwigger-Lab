@@ -24,4 +24,4 @@
 - Sử dụng bảng hệ thống `v$version` và cột `BANNER`.
 - Câu lệnh "'UNION SELECT BANNER, NULL FROM v$version--".
 ![alt text](images/image-4.png)
-
+![alt text](images/image-5.png)
