@@ -7,7 +7,7 @@
 Khai thác lỗ hổng SQL injection trong bộ lọc danh mục sản phẩm để truy vấn phiên bản CSDL (database version) trên hệ quản trị MySQL hoặc Microsoft SQL Server, thông qua kỹ thuật UNION SELECT.
 ## Khai thác
 
-1. Truy cập trang web và chọn một danh mục, ở đây chọn “Tech gifts”. Trang hiển thị danh sách sản phẩm.
+1. Truy cập trang web và chọn một danh mục, ở đây chọn “Tech gifts”.
 
 ![alt text](images/image.png)
 

@@ -8,7 +8,7 @@ Khai thác lỗ hổng SQL injection trong bộ lọc danh mục của sản ph�
 
 ## Khai thác
 
-1. Truy cập trang web và chọn một danh mục, ở đây chọn “Tech gifts”. Trang hiển thị danh sách sản phẩm.
+1. Truy cập trang web và chọn một danh mục, ở đây chọn “Tech gifts”.
 
 ![alt text](images/image.png)
 
