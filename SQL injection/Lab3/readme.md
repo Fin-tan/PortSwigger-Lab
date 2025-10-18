@@ -4,7 +4,7 @@
 
 ## Tóm tắt
 
--Khai thác lỗ hổng SQL injection trong bộ lọc danh mục của sản phẩm để thực hiện UNION-based attack trên Oracle, nhằm hiển thị chuỗi phiên bản database (version string).
+Khai thác lỗ hổng SQL injection trong bộ lọc danh mục của sản phẩm để thực hiện UNION-based attack trên Oracle, nhằm hiển thị chuỗi phiên bản database (version string).
 
 ## Khai thác
 
