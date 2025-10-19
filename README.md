@@ -7,3 +7,4 @@ Writeup
 - [x] [Lab: SQL injection attack, querying the database type and version on MySQL and Microsoft](https://github.com/Fin-tan/PortSwigger-Lab/tree/main/SQL%20injection/Lab4)
 - [x] [Lab: SQL injection attack, listing the database contents on non-Oracle databases](https://github.com/Fin-tan/PortSwigger-Lab/tree/main/SQL%20injection/Lab5)
 - [x] [Lab: SQL injection UNION attack, determining the number of columns returned by the query](https://github.com/Fin-tan/PortSwigger-Lab/tree/main/SQL%20injection/Lab7)
+- [x] [Lab: Blind SQL injection with conditional responses](https://github.com/Fin-tan/PortSwigger-Lab/tree/main/SQL%20injection/Lab11)
