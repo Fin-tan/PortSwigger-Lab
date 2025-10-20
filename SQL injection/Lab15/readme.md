@@ -20,9 +20,9 @@ Trong đó x là một số, nếu ứng dụng delay chứng tỏ LENGTH(passwo
 ![alt text](images/img_4.png)
 - Tuy nhiên khi đến e đã không còn delay nữa chứng tỏ lúc này truy vấn ... SUBSTR(password, 1, 1)>'e'... đã sai. 
 ![alt text](images/img_5.png)
-- Điều này đồng nghĩa kí tự đầu tiên của password chính là kí tự 'e'. Kiểm tra lại với truy vấn ...SUBSTR(password, 1, 1)='e' thì thấy hoàn toàn chính xác (có thông báo lỗi trả về)
+- Điều này đồng nghĩa kí tự đầu tiên của password chính là kí tự 'e'. Kiểm tra lại với truy vấn ...SUBSTR(password, 1, 1)='e' thì thấy hoàn toàn chính xác (ứng dụng không delay)
 ![alt text](images/img_6.png)
-- Thực hiện tương tự với 19 vị trí còn lại của mật khẩu, ta dò được mật khẩu hoàn chỉnh. Hình dưới thực hiện truy vấn lấy tại vị trí đầu tiên của password 20 kí tự (đúng bằng độ dài password) đem so với các kí tự ta đã dò được ở từng vị trí thì hoàn toàn trùng khớp.
+- Thực hiện tương tự với 19 vị trí còn lại của mật khẩu, ta dò được mật khẩu hoàn chỉnh. Hình dưới thực hiện truy vấn lấy tại vị trí đầu tiên của password 20 kí tự (đúng bằng độ dài password) đem so với các kí tự ta đã dò được ở từng vị trí thì hoàn toàn trùng khớp (truy vấn đúng, ứng dụng delay 3s).
 ![alt text](images/img_7.png)
 - Password: ebtmbp2dnfjtk1tvi912
 - Đăng nhập thành công
