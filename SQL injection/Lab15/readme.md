@@ -6,8 +6,8 @@
 1. **Dò độ dài mật khẩu**
 - Mô tả bài Lab đã chỉ rõ trong database chứa table users với các trường username và password, để truy xuất thông tin của administrator ta cần một truy vấn để ứng dụng delay với điều kiện được gửi đi
 - Bằng cách liên tục gửi query với phần thêm vào TrackingID: '||(SELECT CASE WHEN LENGTH(password)>{x} THEN pg_sleep(3) ELSE pg_sleep(0) END FROM users WHERE username='administrator')||'
-Trong đó x là một số, nếu có thông báo lỗi trả về chứng tỏ LENGTH(password) lớn hơn x
-- Tương tự các lab trước, ta thấy LENGTH(password) > 19 là đúng (delay 3s)
+Trong đó x là một số, nếu ứng dụng delay chứng tỏ LENGTH(password) lớn hơn x
+- Tương tự các lab trước, dò với từng số tăng dần ta thấy LENGTH(password) > 19 là đúng (delay 3s)
 - Tiếp tục với x = 20, ta thấy truy vấn đã sai (không delay)
 - Kiểm tra lại với truy vấn ...LENGTH(password)=20, kết quả truy vấn là đúng (delay 3s)
 ![alt text](images/img_1.png)
