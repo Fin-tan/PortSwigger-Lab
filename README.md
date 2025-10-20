@@ -11,3 +11,7 @@ Writeup
 - [x] [Lab: SQL injection UNION attack, retrieving data from other tables](https://github.com/Fin-tan/PortSwigger-Lab/tree/main/SQL%20injection/Lab9)
 - [x] [Lab: SQL injection UNION attack, retrieving multiple values in a single column](https://github.com/Fin-tan/PortSwigger-Lab/tree/main/SQL%20injection/Lab10)
 - [x] [Lab: Blind SQL injection with conditional responses](https://github.com/Fin-tan/PortSwigger-Lab/tree/main/SQL%20injection/Lab11)
+- [x] [Lab: Blind SQL injection with conditional errors](https://github.com/Fin-tan/PortSwigger-Lab/tree/main/SQL%20injection/Lab12)
+- [x] [Lab: Visible error-based SQL injection](https://github.com/Fin-tan/PortSwigger-Lab/tree/main/SQL%20injection/Lab13)
+- [x] [Lab: Blind SQL injection with time delays](https://github.com/Fin-tan/PortSwigger-Lab/tree/main/SQL%20injection/Lab14)
+- [x] [Lab: Blind SQL injection with time delays and information retrieval](https://github.com/Fin-tan/PortSwigger-Lab/tree/main/SQL%20injection/Lab15)
