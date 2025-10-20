@@ -1,5 +1,5 @@
 # WEB
-*Lab: SQL injection vulnerability in WHERE clause allowing retrieval of hidden data*
+*Lab: Blind SQL injection with conditional responses*
 ## Tóm tắt
 - Challenge chứa lỗ hổng SQL injection. Ứng dụng sử dụng cookie theo dõi để phân tích và thực hiện truy vấn SQL chứa giá trị của cookie đã gửi. 
 ## Khai thác
