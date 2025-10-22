@@ -17,3 +17,4 @@ Writeup
 - [x] [Lab: Blind SQL injection with time delays](https://github.com/Fin-tan/PortSwigger-Lab/tree/main/SQL%20injection/Lab14)
 - [x] [Lab: Blind SQL injection with time delays and information retrieval](https://github.com/Fin-tan/PortSwigger-Lab/tree/main/SQL%20injection/Lab15)
 - [x] [Lab: Blind SQL injection with out-of-band data exfiltration](https://github.com/Fin-tan/PortSwigger-Lab/tree/main/SQL%20injection/Lab17)
+- [x] [Lab: SQL injection with filter bypass via XML encoding](https://github.com/Fin-tan/PortSwigger-Lab/tree/main/SQL%20injection/Lab18)
